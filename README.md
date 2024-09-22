@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StikyPiston
 - 👀 I’m interested in Minecraft Modding and Programming!
-- 🌱 I’m currently learning Vala and wanna learn Ruby!
+- 🌱 I’m currently learning Ruby and wanna learn Vala!
 - 💞️ I’m looking to collaborate on nothing at the moment!
 - 📫 How to reach me NO
 - 😄 Pronouns: He/Him
